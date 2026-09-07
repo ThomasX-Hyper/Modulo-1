@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Damers.Models.Producto>
+
+
+ <h1>Produtos</h1>
+ <br />
+
+ <table>
+     <thead>
+         <tr>
+             <th>IdProducto</th>
+             <th>Nombre</th>
+             <th>Descripcion</th>
+
+         </tr>
+
+     </thead>
+
+     <tbody>
+        @foreach ( var item in Model)
+        {
+            <tr>
+                <td>@item.id_producto</td>
+                <td>@item.nombre</td>
+                <td>@item.modelo</td>
+
+            </tr>
+            
+        }
+
+     </tbody>
+
+
+ </table>

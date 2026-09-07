@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Damers.Controllers.BackProductoController",
+    "Method": "Index",
+    "RelativePath": "api/BackProducto/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
