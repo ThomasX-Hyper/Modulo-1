@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BackEndWebAppEjecuciones_DSI_26_II.Controllers.BackEjecucionesController",
+    "Method": "Index",
+    "RelativePath": "api/BackEjecuciones/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
