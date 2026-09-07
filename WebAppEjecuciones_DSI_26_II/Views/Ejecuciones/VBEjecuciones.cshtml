@@ -1,0 +1,87 @@
+﻿@model IEnumerable<WebAppEjecuciones_DSI_26_II.Models.DetalleOperaciones>
+
+    <h1>LISTADO DE EJECUCIONES</h1>
+    <table class="table table-hover table-bordered table-sm">
+        <thead><tr>
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model => model.IdDetalleOperacion)
+                    </strong>
+                </center>
+            </th>
+
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model => model.CabeceraOperacion.Cliente)
+                    </strong>
+                </center>
+            </th>
+
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model=>model.Descripcion)
+                    </strong>
+                </center>
+            </th>   
+
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model => model.Cantidad)
+                    </strong>
+                </center>
+            </th>
+
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model => model.Importe)
+                    </strong>
+                </center>
+            </th>
+
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model => model.Igv)
+                    </strong>
+                </center>
+            </th>
+
+            <th>
+                <center>
+                    <strong>
+                        @Html.DisplayNameFor(model => model.total)
+                    </strong>
+                </center>
+            </th>
+
+
+        </tr>
+            
+
+
+        </thead>
+        <tbody>
+            @foreach(var db in ViewBag.Ejecuciones)
+            {
+            <tr>
+                <td align="center">@db.IdDetalleOperacion</td>
+                <td align="center">@db.CabeceraOperacion.Cliente</td>
+                <td align="center">@db.Descripcion</td>
+                <td align="center">@db.Cantidad</td>
+                <td align="center">@db.Importe</td>
+                <td align="center">@db.Igv</td>
+                <td align="center">@db.total</td>
+
+                
+            
+            </tr>
+            
+        }
+        </tbody>
+
+    </table>
