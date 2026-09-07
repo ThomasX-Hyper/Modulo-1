@@ -1,0 +1,36 @@
+﻿@model IEnumerable<WebAppEjecuciones_DSI_26_II.Models.DetalleOperaciones>
+<br >
+
+<h2>Listado de ejecuciones</>
+<table class="table  table-hover table-bordered table-sm">
+    <thead>
+        <tr class="table-info">
+            <th><center> <strong>  ID</strong> </center></th>
+               <th><center><strong> Cliente </strong> </center></th>
+                <th><center><strong> Descripcion </strong> </center></th>
+                       <th><center><strong> Cantidad</strong> </center></th>
+                          <th><center><strong> Importe</strong> </center></th>
+                             <th><center><strong>IGV </strong> </center></th>
+                                <th><center><strong> Total</strong> </center></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+            {
+                <tr>
+                        <td> @item.IdDetalleOperacion</td>
+                    <td> @item.CabeceraOperacion.Cliente</td>
+                    <td> @item.Descripcion</td>
+                    <td>@item.Cantidad</td>
+                    <td> @item.Importe</td>
+                    <td>@item.Igv</td>
+                    <td>@item.total</td>
+
+                </tr>
+
+            }
+
+    </tbody>
+</table>
+
+
