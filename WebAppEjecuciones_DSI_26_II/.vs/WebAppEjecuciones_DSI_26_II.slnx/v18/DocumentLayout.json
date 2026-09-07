@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\controllers\\backejecucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:controllers\\backejecucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\controllers\\ejecucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:controllers\\ejecucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\ejecuciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\ejecuciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\data\\accesodatos\\dadetalleejecuciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:data\\accesodatos\\dadetalleejecuciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\models\\cabeceraoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:models\\cabeceraoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\models\\detalleoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:models\\detalleoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\ejecuciones\\vbejecuciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\ejecuciones\\vbejecuciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|c:\\proyectos-desarrollo-back\\webappejecuciones_dsi_26_ii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC774B7-37B0-124B-A12B-28B2353AAE5E}|WebAppEjecuciones_DSI_26_II.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DADetalleEjecuciones.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Data\\AccesoDatos\\DADetalleEjecuciones.cs",
+              "RelativeDocumentMoniker": "Data\\AccesoDatos\\DADetalleEjecuciones.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Data\\AccesoDatos\\DADetalleEjecuciones.cs",
+              "RelativeToolTip": "Data\\AccesoDatos\\DADetalleEjecuciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T01:02:09.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T14:38:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Ejecuciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejecuciones\\Index.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Ejecuciones\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ejecuciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T20:10:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T14:41:33.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackEjecucionesController.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Controllers\\BackEjecucionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BackEjecucionesController.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Controllers\\BackEjecucionesController.cs",
+              "RelativeToolTip": "Controllers\\BackEjecucionesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T22:15:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjecucionesController.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Controllers\\EjecucionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjecucionesController.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Controllers\\EjecucionesController.cs",
+              "RelativeToolTip": "Controllers\\EjecucionesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T01:01:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T02:42:21.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CabeceraOperacion.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Models\\CabeceraOperacion.cs",
+              "RelativeDocumentMoniker": "Models\\CabeceraOperacion.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Models\\CabeceraOperacion.cs",
+              "RelativeToolTip": "Models\\CabeceraOperacion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T23:33:15.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleOperaciones.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Models\\DetalleOperaciones.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleOperaciones.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Models\\DetalleOperaciones.cs",
+              "RelativeToolTip": "Models\\DetalleOperaciones.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T23:33:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T02:58:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VBEjecuciones.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Ejecuciones\\VBEjecuciones.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejecuciones\\VBEjecuciones.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Ejecuciones\\VBEjecuciones.cshtml",
+              "RelativeToolTip": "Views\\Ejecuciones\\VBEjecuciones.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T13:28:07.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T14:38:51.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T14:38:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T14:38:00.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T14:38:09.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\PROYECTOS-DESARROLLO-BACK\\WebAppEjecuciones_DSI_26_II\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-06T14:14:57.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
